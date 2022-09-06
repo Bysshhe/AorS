@@ -1,0 +1,22 @@
+*{padding: 0; margin: 0;}
+.container{height: 100vh; width: 100vw; background-color: bisque; color: #444;
+    text-align: center;}
+.BB, .Adie, .Siomai{padding-top: 20%;}
+span{color: darksalmon;
+width: 100px;}
+
+h2{font-size: 40px;margin-bottom: 30px;} 
+a{text-decoration: none;
+  padding: 5px;
+  margin: 5px 10px;
+  border: 3px solid #ddd;
+  background-color: #eee;
+  color: black;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.Apic{height: 200px; width: 300px; border-radius: 20px;}
+video{border-radius: 20px;}
+img{width: 143px;
+border-radius: 20px;}
+.siomai2{margin: auto;}
